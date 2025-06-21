@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 张东阳
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Dongyang Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dongyang
+last_name: Zhang
 
 # Status emoji
 status:
