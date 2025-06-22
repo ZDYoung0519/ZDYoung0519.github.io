@@ -35,8 +35,9 @@ summary: Multi-modal Large Language Models, Continual Instruction Tuning
 
 
 tags:
+- MLLMs
 - Continual Learning
-- Pre-Trained Models
+
 
 # Display this page in the Featured widget?
 featured: true

@@ -37,6 +37,7 @@ summary: 深度学习，持续学习，灾难性遗忘
 
 
 tags:
+- Survey
 - Continual Learning
 
 # Display this page in the Featured widget?
