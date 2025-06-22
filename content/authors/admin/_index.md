@@ -60,7 +60,7 @@ education:
       Supervised by [Prof Junmin Liu](https://gr.xjtu.edu.cn/web/junminliu). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: ''
   - area: B.S., School of Mathematical Sciences
     institution: University of Electronic Science and Technology of China
     date_start: 2017-09-01
@@ -69,30 +69,22 @@ education:
       GPA: 3.4/4.0
       Courses included:
       - Mathematical analysis, advanced algebra, abstract algebra and e.t.c.
+    button:
+      text: 'Read Thesis'
+      url: ''
 
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Internship @  Chengdu CRP Automatic Control Technology
+    company_name: 成都卡普诺机器人技术股份有限公司
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-03-01
+    date_end: '2021-09-01'
+    summary: |2-
+      Responsibilities include:
+      - Designed a planning algorithm for loading problems (Python-based).
+      - Developed a GUI panel for binocular camera control of robotic arms (PyQt-based).
+      - Researched related studies and algorithms for 3D pose estimation.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -129,17 +121,16 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
   - title: 粤港澳大湾区（黄埔）国际算法算例大赛
     url: https://iacc.pazhoulab-huangpu.com/

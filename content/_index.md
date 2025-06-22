@@ -52,18 +52,36 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: papers
+
+  - block: resume-awards
     content:
-      title: 🛠️ Long-Term Research Projects
+      title: Awards
+      username: admin
+
+  - block: collection
+    content:
+      title: 🛠️ Projects
+      # text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - publication
-        featured_only: true
+          - project
     design:
       view: article-grid
-      columns: 2
-      
+      fill_image: false
+      columns: 3
+
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: 🛠️ Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+
   - block: collection
     id: news
     content:
@@ -93,14 +111,5 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
+
 ---
