@@ -26,6 +26,10 @@
     <lastmod>2025-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/tags/mllms/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2025-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,6 +54,10 @@
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/tags/survey/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/zhang2025survey/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -72,6 +80,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/continual-instruction-tuning/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/project/gcl-mllm/</loc>

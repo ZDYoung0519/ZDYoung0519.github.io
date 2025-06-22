@@ -66,7 +66,7 @@ sections:
 
   - block: resume-awards
     content:
-      title: Awards
+      title: 🏆 Awards
       username: admin
 
   - block: collection

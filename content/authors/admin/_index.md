@@ -52,23 +52,23 @@ interests:
   - Multimodal LLMs
 
 education:
-  - area: M.S. & Ph.D, School of Mathematics and Statistics 
-    institution: Xi'an Jiaotong University
+  - area: M.S. & Ph.D @ Xi'an Jiaotong University
+    institution: School of Mathematics and Statistics, Xi'an Jiaotong University
     date_start: 2021-09-01
     date_end: 2026-12-31
     summary: |
-      Supervised by [Prof Junmin Liu](https://gr.xjtu.edu.cn/web/junminliu). 
+      - Courses included: Algebra, Convex Optimization, Riemannian Geometry, Machine Learning, Deep Learning and _e.t.c_.
+      - Research the continual learning theory and algorithm supervised by [Prof Junmin Liu](https://gr.xjtu.edu.cn/web/junminliu). 
     button:
       text: 'Read Thesis'
       url: ''
-  - area: B.S., School of Mathematical Sciences
-    institution: University of Electronic Science and Technology of China
+  - area: B.S. @ University of Electronic Science and Technology of China
+    institution: School of Mathematical Sciences, University of Electronic Science and Technology of China
     date_start: 2017-09-01
     date_end: 2021-06-30
     summary: |
-      GPA: 3.4/4.0
-      Courses included:
-      - Mathematical analysis, advanced algebra, abstract algebra and e.t.c.
+      - GPA: 3.4/4.0. Courses included: Mathematical analysis, advanced algebra, abstract algebra and _e.t.c_.
+      - Research the object tracking problem supervised by [Prof Lei Wu](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/11401?yxsh=11).
     button:
       text: 'Read Thesis'
       url: ''
@@ -91,9 +91,9 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python/Pytorch
-        description: ''
-        percent: 80
+      - name: Python
+        description: 'Programming with Python/Pytorch.'
+        percent: 100
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -101,7 +101,11 @@ skills:
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 100
+        icon: circle-stack
+      - name: PS/PR/AE
+        description: ''
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -132,24 +136,33 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
-  - title: 粤港澳大湾区（黄埔）国际算法算例大赛
-    url: https://iacc.pazhoulab-huangpu.com/
-    date: '2024-12-01'
-    awarder: International Algorithm Case Competition
-    icon: coursera
-    summary: |
-      Researched *continual learning* in neural networks for sequential tasks. Designed a novel sparsity-aware architecture leveraging "early-bird ticket" pruning principles to enhance parameter efficiency and mitigate catastrophic forgetting. Achieved *5th place* among 1,000+ teams in the 2nd International Algorithm Case Competition (IACC) challenge, securing prize money of ¥40,000 RMB.
-
-  - title: 上海图书馆开放数据竞赛
+  - title: 上海图书馆开放数据竞赛-**AIGC工具优胜奖**
     url: https://opendata.library.sh.cn/
     date: '2025-04-01'
     awarder: Shanghai Library Open Data Content
-    icon: edx
+    # icon: edx
     summary: |
       Developed a library AI system utilizing open-source data:
       - Built a knowledge base using publicly available library data resources.
       - Created an AI agent for the library, enabling capabilities including knowledge retrieval, web search, and image generation.
       - Earned the prestigious "AIGC Tools Excellence Award" for this project.
+  
+  - title: 粤港澳大湾区（黄埔）国际算法算例大赛-**三等奖(5th)**
+    url: https://iacc.pazhoulab-huangpu.com/
+    date: '2024-12-01'
+    awarder: International Algorithm Case Competition
+    # icon: coursera
+    summary: |
+      Researched *continual learning* in neural networks for sequential tasks. Designed a novel sparsity-aware architecture leveraging "early-bird ticket" pruning principles to enhance parameter efficiency and mitigate catastrophic forgetting. Achieved *5th place* among 1,000+ teams in the 2nd International Algorithm Case Competition (IACC) challenge, securing prize money of ¥40,000 RMB.
+  
+  - title: Excellent Student Scholarship and National Encouragement Scholarship
+    url: ""
+    date: '2018-06-01'
+    awarder: University of Electronic Science and Technology of China, UESTC.
+    # icon: 
+    summary: |
+
+    
 
   # - title: 'Object-Oriented Programming in R'
   #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
