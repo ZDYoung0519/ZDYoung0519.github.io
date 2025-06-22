@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 张东阳
+title: Dongyang Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Dongyang Zhang
+# name_pronunciation: Dongyang Zhang
 
 # Full name (for SEO)
 first_name: Dongyang
